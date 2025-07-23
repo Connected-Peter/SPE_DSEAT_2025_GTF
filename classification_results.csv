@@ -1,0 +1,21 @@
+,level_0,index,Reservoir Name,Reservoir Type,Well Type,Production Type,Formation GOR Trend,Watercut Trend,Oil Productivity Index Trend
+0,0,Well_#1,JANI,Undersaturated,GL,Unsteady,bSo/GOR,Decr,Decr
+1,1,Well_#2,KEMA,Undersaturated,GL,Unsteady,bSo/GOR,Incr,Incr
+2,2,Well_#3,MAKO,Saturated,GL,Steady,bSo/GOR,Decr,Incr
+3,3,Well_#4,DEPU,Saturated,NF,Unsteady,bSo/GOR,Decr,Incr
+4,4,Well_#5,MAKO,Saturated,NF,Unsteady,bSo/GOR,Incr,Decr
+5,5,Well_#6,KEMA,Undersaturated,GL,Unsteady,bSo/GOR,Decr,Incr
+6,6,Well_#7,KEMA,Undersaturated,NF,Unsteady,bSo/GOR,Incr,Incr
+7,7,Well_#8,ACHI,Undersaturated,NF,Unsteady,bSo/GOR,Incr,Decr
+8,8,Well_#9,DEPU,Saturated,GL,Unsteady,bSo/GOR,Incr,Incr
+9,9,Well_#10,JANI,Undersaturated,NF,Unsteady,bSo/GOR,Decr,Decr
+10,10,Well_#11,DEPU,Saturated,NF,Unsteady,bSo/GOR,Decr,Decr
+11,11,Well_#12,ACHI,Undersaturated,GL,Unsteady,bSo/GOR,Decr,Incr
+12,12,Well_#13,DEPU,Saturated,NF,Unsteady,bSo/GOR,Decr,Decr
+13,13,Well_#14,MAKO,Saturated,NF,Unsteady,bSo/GOR,Decr,Incr
+14,14,Well_#15,KEMA,Undersaturated,GL,Steady,bSo/GOR,Incr,Decr
+15,15,Well_#16,KEMA,Undersaturated,GL,Steady,bSo/GOR,Decr,Decr
+16,16,Well_#17,DEPU,Saturated,NF,Unsteady,bSo/GOR,Incr,Decr
+17,17,Well_#18,ACHI,Undersaturated,GL,Unsteady,bSo/GOR,Incr,Decr
+18,18,Well_#19,KEMA,Undersaturated,NF,Steady,bSo/GOR,Decr,Decr
+19,19,Well_#20,MAKO,Saturated,GL,Unsteady,bSo/GOR,Decr,Decr
